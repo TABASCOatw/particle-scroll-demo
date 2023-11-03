@@ -1,8 +1,8 @@
 {
-  "name": "particle-connect-boilerplate",
+  "name": "particle-scroll-demo",
   "version": "1.0.0",
   "type": "module",
-  "description": "Boilerplate demo application for facilitating wallet connection with Particle Connect",
+  "description": "Demo application for leveraging Scroll within Particle's Wallet-as-a-Service",
   "scripts": {
     "dev": "vite",
     "build": "tsc && vite build",
